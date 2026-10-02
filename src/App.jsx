@@ -103,7 +103,7 @@ function App() {
     </section>
 
     <section id="contact" className="contact-section">
-      <div className="wrap contact-inner"><span className="kicker">05 / CONTACT</span><h2>Let’s build something <em>meaningful.</em></h2><p>I’m open to entry-level opportunities in Python development and related roles. Have an opportunity or just want to connect? Feel free to reach out.</p><a className="primary" href="mailto:tiwarishruti2005@gmail.com">Say hello <ArrowUpRight size={17}/></a><div className="contact-links"><a href={PROFILE_URL} target="_blank" rel="noreferrer"><Github size={17}/> GitHub</a><a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"><Linkedin size={17}/> LinkedIn</a></div></div>
+      <div className="wrap contact-inner"><span className="kicker">05 / CONTACT</span><h2>Let’s build something <em>meaningful.</em></h2><p>I’m open to entry-level opportunities in Python development and related roles. Have an opportunity or just want to connect? Feel free to reach out.</p><a className="primary" href="mailto:tiwarishruti2005@gmail.com">Say hello <ArrowUpRight size={17}/></a><div className="contact-links"><a href={PROFILE_URL} target="_blank" rel="noreferrer"><Github size={17}/> GitHub</a><a href="https://www.linkedin.com/in/shruti-tiwari-8851b7287/" target="_blank" rel="noreferrer"><Linkedin size={17}/> LinkedIn</a></div></div>
     </section>
     <footer className="footer wrap"><a className="brand" href="#home">ST<span>.</span></a><span>Designed & built with curiosity · © 2026 Shruti Tiwari</span><a href="#home">Back to top ↑</a></footer>
   </main>;
